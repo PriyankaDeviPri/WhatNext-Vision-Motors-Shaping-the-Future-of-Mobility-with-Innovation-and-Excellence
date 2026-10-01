@@ -162,3 +162,7 @@ Theni Kammavar Sangam College of Technology
 ## 📄 License
 
 This project was developed as an academic project for learning and demonstrating Salesforce CRM implementation.
+
+Project Documentation
+      The complete project report is available below:
+      https://drive.google.com/file/d/1BUy1XwUY3b0pbBAh9MonmTK4gnnS16ls/view?usp=sharing
